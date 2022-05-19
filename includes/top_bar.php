@@ -4,9 +4,9 @@
             <div class="col-md-12">
                 <div class="ed-com-t1-left">
                     <ul>
-                        <li><a href="#">Contact: Room No 401, Monjuri Bhaban, 8-DIT Avem Motijhel, Dhaka.</a>
+                        <li><a href="#">Contact: your schools address.</a>
                         </li>
-                        <li><a href="#">Phone: +880168037570</a>
+                        <li><a href="#">Phone: +8801680375710</a>
                         </li>
                     </ul>
                 </div>
